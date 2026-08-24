@@ -1,5 +1,6 @@
 Hello, Git
 Second Line in File
 Third Line in File
-Fourth Line in File
+Fourth Line Modified in File
 Fifth Line in File
+Sixth Line

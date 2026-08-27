@@ -4,3 +4,4 @@ Third Line in File
 Fourth Line Modified in File
 Fifth Line in File
 Sixth Line
+seventh line
